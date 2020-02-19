@@ -4,11 +4,11 @@
 "description": "super bot",
 "main": "index.js",
 "scripts": {
-"test"; "echo \"Error: no test specified\" && exit &"
+"test": "echo \"Error: no test specified\" && exit &"
 },
 "author": "",
 "liscense": "ISC",
 "dependencies": {
-  "discord.js"; "^11.4.2"
+  "discord.js": "^11.4.2"
     }
 }
