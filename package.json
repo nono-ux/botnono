@@ -50,10 +50,11 @@
   ],
   "license": "Apache-2.0",
   "main": "src/long.js",
-  "name": "long",
+  "name": "bot-discord",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dcodeIO/long.js.git"
+    "node": "12.13.0"
   },
   "scripts": {
     "build": "webpack",
